@@ -6,3 +6,10 @@
 |---|---|---|---|---|
 | RandomBaseline(organizer) | 0.5036 | 0.5033 | - | - |
 | NGRAMLR(organizer) | 0.8888 | 0.8903 | - | - |
+
+
+# News
+
+* 13 March 2021
+    - Tran/Test1 datasets released
+    - Starter Notebooks and LeaderBoard Creation
