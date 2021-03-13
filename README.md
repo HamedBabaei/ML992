@@ -44,7 +44,7 @@ Content:
 3. You should do the Exploratory Data Analysis for this task.
 4. You should report an analogy of why you used a particular model. to do this; you should report your baseline models(as presented in the task) and some of the works presented in the research field about it and here.
 5. Imagine your model will be embedded in our software, so paying attention to your implementations is crucial.
-6. Write your report in English form
+6. Write your report in english.
 
 ## News
 
