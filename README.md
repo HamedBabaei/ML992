@@ -2,7 +2,8 @@
 
 ## Task Definitions and Goals: Sentiment Analysis
 
-**Task**
+**Task**:
+
 Given a text feed, determine whether its postive or negative sentiment.
 
 **Dataset**:
