@@ -1,3 +1,10 @@
+# local files and dirs
+local-info/*
+dataset/test/*-Data.csv
+dataset/test/*-GT.csv
+
+dataset/validation/*-GT.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
