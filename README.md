@@ -1,6 +1,6 @@
 # ML992 : Machine Learning Course Project Description and Leaderboards
 
-## Task Definitions and Goals: Sentiment Analysis
+## Task Definition and Dataset Description: Sentiment Analysis
 
 **Task**:
 
