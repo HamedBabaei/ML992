@@ -34,8 +34,8 @@ Content:
 * `5 June 2021`: Submission-2 phase(final), for Test-2.
 * `5 June 2021`: Code submission.
 * `10 June 2021`: Test-2 GT release.
-* `15 June 2021`: Participant paper submission.
-* `20 June 2021`: Final leaderboard update.
+* `15 June 2021`: Final leaderboard update.
+* `20 June 2021`: Participant paper submission.
 * `30 June 2021`: Task overview, and task reports.
 
 ## Terms and Conditions
