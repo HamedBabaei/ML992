@@ -38,6 +38,11 @@ Content:
 * `20 June 2021`: Participant paper submission.
 * `30 June 2021`: Task overview, and task reports.
 
+## Submission Forms
+
+* [Earlybird Submission](https://forms.gle/X8fFVgzBR5pPrtaQ8)
+    - Fill the form and submit your model prediction over test-1 until `1 May 2021`
+
 ## Terms and Conditions
 
 1. This is a binary-classification problem.
@@ -48,6 +53,9 @@ Content:
 6. Write your report in english.
 
 ## News
+
+* 5 April 2021
+    - Submission form created for participants
 
 * 13 March 2021
     - Tran/Test1 datasets released
