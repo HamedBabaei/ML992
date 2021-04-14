@@ -27,7 +27,7 @@ Content:
 
 
 ## Timelines
-* `13 March 2021`: Task launch.
+* ~~`13 March 2021`: Task launch.
 * **`1 May 2021`: Submission-1 phase(early bird), for Test-1.**
 * `5 May 2021`: Leaderboard update.
 * `10 May 2021`: Test-1(validation set) GT release. Test-2(test set) data release for final submission.
