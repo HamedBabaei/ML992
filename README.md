@@ -68,6 +68,7 @@ Content:
 * [3] LSACONet: LSACoNet: A Combination of Lexical and Conceptual Features for Analysis of Fake News Spreaders on Twitter. http://ceur-ws.org/Vol-2696/paper_124.pdf
 * [4] Cross-domain Authorship Attribution: Author Identification using a Multi-Aspect Ensemble Approach. http://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2019/paper_195.pdf
 * [5] Development of an Ensemble Multi-stage Machine for Prediction of Breast Cancer Survivability. http://jad.shahroodut.ac.ir/article_1780_e3aa6f7b2b8463e031c1b4fc2785a103.pdf
+* [6] A Low Dimensionality Representation for Language Variety Identification. https://arxiv.org/pdf/1705.10754.pdf
 
 ## Contact
 
