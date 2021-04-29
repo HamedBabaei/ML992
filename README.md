@@ -93,5 +93,5 @@ A1:
 **Q2 - What exactly we can implement from `A Low Dimensionality Representation for Language Variety Identification` work for the project? All of the models required to be implemented or not?**
 
 A2:
-*This paper introduced a lower dimensionality statistical embedding based on the TFIDF matrix and weighted features based on classes. For this project, if you could implement this statistical embedding on project datasets would be enough. As I said, it is not a big deal to go for it. But If you could do that it is valuable work for us.*
+*This paper introduced a lower dimensionality statistical embedding based on the TFIDF matrix and weighted features based on classes. For this project, if you could implement this statistical embedding on project datasets would be enough for the feature extraction part. For the classification part, you are free to do anything. As I said, it is not a big deal to go for it. But If you could do that it is valuable work for us.*
 
