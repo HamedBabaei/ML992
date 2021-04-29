@@ -1,5 +1,6 @@
 # ML992 : Machine Learning Course Project Description and Leaderboards
 
+
 ## Task Definition and Dataset Description: Sentiment Analysis
 
 **Task**:
@@ -54,6 +55,9 @@ Content:
 
 ## News
 
+* 29 April 2021:
+    - adding FAQ section
+
 * 5 April 2021
     - Submission form created for participants
 
@@ -73,3 +77,21 @@ Content:
 ## Contact
 
 Email: hamedbabaeigiglou@gmail.com
+
+## FAQ's:
+
+**Q1 - What we should do exactly for submission 1 and 2?**
+
+A1:
+
+*For the first part of the submissions, we only need a CSV file of your model prediction over the validation set (I mean test-1). This will give you and us an idea of how much your model is performed.*
+
+*After that you will have full month (till 5 June - deadline of submission 2) to work on your model to improve it. Then we will ask you to make your final model prediction over test-2 and submit your final prediction with codes for final evaluation.*
+
+*We want to see how you are able to boost your performance and how you deal with the problem in these two phases. Not a big deal at all. You can submit the same model prediction for prediction on both test-1 and test-2. BUT I highly recommend not do this. Just try to improve your model performance after the first submission.*
+
+**Q2 - What exactly we can implement from `A Low Dimensionality Representation for Language Variety Identification` work for the project? All of the models required to be implemented or not?**
+
+A2:
+*This paper introduced a lower dimensionality statistical embedding based on the TFIDF matrix and weighted features based on classes. For this project, if you could implement this statistical embedding on project datasets would be enough. As I said, it is not a big deal to go for it. But If you could do that it is valuable work for us.*
+
