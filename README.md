@@ -55,6 +55,9 @@ Content:
 
 ## News
 
+* 30 April 2021:
+    - Deadline for first submission extended!
+
 * 29 April 2021:
     - adding FAQ section
 
