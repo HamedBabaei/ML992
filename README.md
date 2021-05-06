@@ -30,9 +30,9 @@ Content:
 | wildonion | 0.8628 | - | - |
 | 54rnd | 0.8558| - | - |
 | RandomBaseline(organizer) | 0.5036 | - | - |
+|yaaghobi|0.4912 | - | - | code submitted + csv file was corrupted|
 | sasvm | ERROR | - | - | code submitted! |
 |textclassification|ERROR | - | - | code submitted!|
-|yaaghobi|ERROR | - | - | code submitted + csv file was corrupted|
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
