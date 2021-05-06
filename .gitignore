@@ -1,6 +1,6 @@
 # local files and dirs
 local-info/*
-dataset/test/*-Data.csv
+#dataset/test/*-Data.csv
 dataset/test/*-GT.csv
 submissions/*
 dataset/validation/*-GT.csv
