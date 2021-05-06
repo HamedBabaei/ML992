@@ -50,8 +50,9 @@ Content:
 ## Submission Forms
 
 * [Earlybird Submission](https://forms.gle/X8fFVgzBR5pPrtaQ8)
-    - Fill the form and submit your model prediction over test-1 until `1 May 2021`
-
+    - Fill the form and submit your model prediction over test-1 until `5 May 2021`
+* [Final Submission](https://docs.google.com/forms/d/1mH_sCqXJUqCEjtdpHvi0HcOE3ZQlzy6PNDeCveqGhsc/prefill)
+    - Fill the form and submit your model prediction over test-2 until `5 June 2021`
 ## Terms and Conditions
 
 1. This is a binary-classification problem.
@@ -62,6 +63,12 @@ Content:
 6. Write your report in english.
 
 ## News
+
+* 6 May 2021:
+    - leaderboard updated
+    - test-2 shared
+    - deadlines changes for phase-1
+    - test-1 GT shared with earlybird submitted teams
 
 * 30 April 2021:
     - Deadline for first submission extended!
