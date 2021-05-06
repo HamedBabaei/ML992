@@ -2,7 +2,7 @@
 local-info/*
 dataset/test/*-Data.csv
 dataset/test/*-GT.csv
-
+submissions/*
 dataset/validation/*-GT.csv
 
 # Byte-compiled / optimized / DLL files
