@@ -21,18 +21,26 @@ Content:
 
 ## `Board`
 
-| Model(Team Name) | Accuracy(Test1) | F1 Score(Test1) | Accuracy(Test2) | (F1 Score(Test2))|
-|---|---|---|---|---|
-| RandomBaseline(organizer) | 0.5036 | 0.5033 | - | - |
-| NGRAMLR(organizer) | 0.8888 | 0.8903 | - | - |
 
+| Model(Team Name) | Accuracy(Test1) | Accuracy(Test2)| AVG | note |
+|---|---|---|---|---|
+| HAL | 0.8908 | - | - |
+| Sentiment_Analysis |0.8902| - | -|
+| NGRAMLR(organizer) | 0.8888 | - |  - |
+| wildonion | 0.8628 | - | - |
+| 54rnd | 0.8558| - | - |
+| RandomBaseline(organizer) | 0.5036 | - | - |
+| sasvm | ERROR | - | - | code submitted! |
+|textclassification|ERROR | - | - | code submitted!|
+|yaaghobi|ERROR | - | - | code submitted + csv file was corrupted|
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
-* **`5 May 2021`: (EXTENDED) Submission-1 phase(early bird), for Test-1.**
-* `5 May 2021`: Leaderboard update.
-* `10 May 2021`: Test-1(validation set) GT release. Test-2(test set) data release for final submission.
-* `5 June 2021`: Submission-2 phase(final), for Test-2.
+* ~~`5 May 2021`: (EXTENDED) Submission-1 phase(early bird), for Test-1.~~
+* ~~`5 May 2021`: Leaderboard update.~~
+* ~~`10 May 2021`: Test-1(validation set) GT release. Test-2(test set) data release for final submission-shared only with submitted approaches~~.
+* **`5 June 2021`: Submission-1 phase , for Test-1. STILL OPEN**
+* **`5 June 2021`: Submission-2 phase(final), for Test-2.**
 * `5 June 2021`: Code submission.
 * `10 June 2021`: Test-2 GT release.
 * `15 June 2021`: Final leaderboard update.
