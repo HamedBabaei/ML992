@@ -30,7 +30,7 @@ Content:
 | wildonion | 0.8628 | - | - |
 | 54rnd | 0.8558| - | - |
 | RandomBaseline(organizer) | 0.5036 | - | - |
-|yaaghobi|0.4912 | - | - | code submitted + csv file was corrupted|
+|yaaghobi|0.4912 | - | - |  |
 | sasvm | ERROR | - | - | code submitted! |
 |textclassification|ERROR | - | - | code submitted!|
 
