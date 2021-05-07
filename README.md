@@ -24,6 +24,7 @@ Content:
 
 | Model(Team Name) | Accuracy(Test1) | Accuracy(Test2)| AVG | note |
 |---|---|---|---|---|
+| sasvm | 0.897 | - | - |  |
 | HAL | 0.8908 | - | - |
 | Sentiment_Analysis |0.8902| - | -|
 | NGRAMLR(organizer) | 0.8888 | - |  - |
@@ -31,7 +32,6 @@ Content:
 | 54rnd | 0.8558| - | - |
 | RandomBaseline(organizer) | 0.5036 | - | - |
 |yaaghobi|0.4912 | - | - |  |
-| sasvm | ERROR | - | - | code submitted! |
 |textclassification|ERROR | - | - | code submitted!|
 
 ## Timelines
