@@ -51,7 +51,7 @@ Content:
 
 * [Earlybird Submission](https://forms.gle/X8fFVgzBR5pPrtaQ8)
     - Fill the form and submit your model prediction over test-1 until `5 May 2021`
-* [Final Submission](https://docs.google.com/forms/d/1mH_sCqXJUqCEjtdpHvi0HcOE3ZQlzy6PNDeCveqGhsc/prefill)
+* [Final Submission](https://docs.google.com/forms/d/e/1FAIpQLSdQHaxGnGjjGol4AK-OlP5YX9ACgYSbGUHGT7rzvrK-SqrkIQ/viewform)
     - Fill the form and submit your model prediction over test-2 until `5 June 2021`
 ## Terms and Conditions
 
