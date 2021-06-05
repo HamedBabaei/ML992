@@ -58,8 +58,8 @@ The following sections required in the report:
 * conclusion        : just tell your conclusion from this project
 
 **Notes**:
-* English or Persian is not a case you are free to do it
-* no need to explain your code, but if you are using a specific library like scikit-learn or keras or tensorflow and ... please just mention it
+* English or Persian is not a case here
+* No need to explain your code, but if you are using a specific library like scikit-learn or keras or tensorflow and ... please just mention it
 * you can add more sections if you like, but it is totally up to you
 * Length of the paper is not mather, as long as you describe each section, even in 2 sentences it is ok!
 * Don't forget to put your affliction on the paper!
