@@ -39,13 +39,31 @@ Content:
 * ~~`5 May 2021`: (EXTENDED) Submission-1 phase(early bird), for Test-1.~~
 * ~~`5 May 2021`: Leaderboard update.~~
 * ~~`10 May 2021`: Test-1(validation set) GT release. Test-2(test set) data release for final submission-shared only with submitted approaches~~.
-* **`5 June 2021`: Submission-1 phase , for Test-1. STILL OPEN**
-* **`5 June 2021`: Submission-2 phase(final), for Test-2.**
-* **`5 June 2021`: Code submission.**
+* **`10 June 2021`: (EXTENDED) Submission-1 phase , for Test-1. STILL OPEN - The LAST CALL**
+* **`10 June 2021`: (EXTENDED) Submission-2 phase(final), for Test-2.**
+* **`10 June 2021`: (EXTENDED) Code submission.**
 * `10 June 2021`: Test-2 GT release.
 * `15 June 2021`: Final leaderboard update.
-* `20 June 2021`: Participant paper submission.
+* **`20 June 2021`: Participant paper submission.**
 * `30 June 2021`: Task overview, and task reports.
+
+## Paper Submission (report file)
+
+The following sections required in the report:
+
+* abstract        
+* introduction      : just tell what is the task, and if you want to add some general state and opinions, you are welcome to add it
+* proposed method   : describe your proposed model and explain it in a general and detailed manner
+* evaluation        : report your model result on your evaluation and submissions (phase 1 and phase 2)
+* conclusion        : just tell your conclusion from this project
+
+**Notes**:
+* English or Persian is not a case you are free to do it
+* no need to explain your code, but if you are using a specific library like scikit-learn or keras or tensorflow and ... please just mention it
+* you can add more sections if you like, but it is totally up to you
+* Length of the paper is not mather, as long as you describe each section, even in 2 sentences it is ok!
+* Don't forget to put your affliction on the paper!
+* If you are uncomfortable with the report, just briefly describe your models that I could understand why you use them, and that is enough too! But I am highly recommend to practice that structure
 
 ## Submission Forms
 
@@ -53,6 +71,8 @@ Content:
     - Fill the form and submit your model prediction over test-1 until `5 May 2021`
 * [Final Submission](https://docs.google.com/forms/d/e/1FAIpQLSdQHaxGnGjjGol4AK-OlP5YX9ACgYSbGUHGT7rzvrK-SqrkIQ/viewform)
     - Fill the form and submit your model prediction over test-2 until `5 June 2021`
+* [Report Submission](https://forms.gle/sD1tmdo7hfPJ7aoeA)
+    - Fill the form and submit your report until  `20 June 2021`
 ## Terms and Conditions
 
 1. This is a binary-classification problem.
@@ -64,6 +84,10 @@ Content:
 
 ## News
 
+* 6 jun 2021:
+    - paper submission for added
+    - phase 1 and phase 2 submission extended for a last time!
+    
 * 6 May 2021:
     - leaderboard updated
     - test-2 shared
