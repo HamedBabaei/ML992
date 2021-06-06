@@ -24,15 +24,16 @@ Content:
 
 | Model(Team Name) | Accuracy(Test1) | Accuracy(Test2)| AVG | CodeScore | ReportScore | note |
 |---|---|---|---|---|---|---|
-| sasvm | 0.897 | - | - |  | |  |
-| HAL | 0.8908 | - | - | |  |
-| Sentiment_Analysis |0.8902| - | -| |  |
+| sasvm | 0.897 | 0.4888 | - |  | | ? Double-Cheking Required! |
+| HAL | 0.8908 | 0.9026 | - | |  |
+| Sentiment_Analysis |0.8902| 0.49 | -| | ? Double-Cheking Required!  |
 | danandeh |0.8902| - | -| |  |
-| NGRAMLR(organizer) | 0.8888 | - |  - | |  |
-| wildonion | 0.8628 | - | - | |  |
-| 54rnd | 0.8558| - | - | |  |
-| RandomBaseline(organizer) | 0.5036 | - | - | |  |
+| NGRAMLR(organizer) | 0.8888 | 0.8864 |  - | |  |
+| wildonion | 0.8628 | 0.9058 | - | |  |
+| 54rnd | 0.8558| 0.9018 | - | |  |
+| RandomBaseline(organizer) | 0.5036 | 0.5046 | - | |  |
 |yaaghobi|0.4912 | - | - |  | |  |
+|garshasbi| - | ERROR | - |  | | Model Logs Submitted! |
 |textclassification|ERROR | - | - |  |  | code submitted!|
 
 ## Timelines
