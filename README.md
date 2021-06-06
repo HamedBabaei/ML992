@@ -25,14 +25,14 @@ Content:
 | Model(Team Name) | ACC(Test1) | ACC(Test2)| AVG | CScore | RScore | note |
 |---|---|---|---|---|---|---|
 | sasvm | 0.897 | 0.4888 | - |  | | ? Double-Cheking Required! |
-| HAL | 0.8908 | 0.9026 | - | |  |
+| HAL | 0.8908 | 0.9026 | 0.8967 | |  |
 | Sentiment_Analysis |0.8902| 0.49 | -| | | ? Double-Cheking Required! |
 | danandeh |0.8902| - | -| |  |
-| NGRAMLR(organizer) | 0.8888 | 0.8864 |  - | |  |
-| wildonion | 0.8628 | 0.9058 | - | |  |
-| 54rnd | 0.8558| 0.9018 | - | |  |
-| RandomBaseline(organizer) | 0.5036 | 0.5046 | - | |  |
-| yaaghobi|0.4912 | 0.888 | - |  | |  |
+| NGRAMLR(organizer) | 0.8888 | 0.8864 |  0.8876 | |  |
+| wildonion | 0.8628 | 0.9058 | 0.8843 | |  |
+| 54rnd | 0.8558| 0.9018 | 0.8788 | |  |
+| RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | |  |
+| yaaghobi|0.4912 | 0.888 | 0.6896 |  | |  |
 | garshasbi| - | ERROR | - |  | | Model Logs Submitted! |
 | textclassification|ERROR | - | - |  |  | code submitted!|
 
