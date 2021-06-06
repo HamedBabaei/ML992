@@ -22,11 +22,11 @@ Content:
 ## `Board`
 
 
-| Model(Team Name) | Accuracy(Test1) | Accuracy(Test2)| AVG | CodeScore | ReportScore | note |
+| Model(Team Name) | ACC(Test1) | ACC(Test2)| AVG | CScore | RScore | note |
 |---|---|---|---|---|---|---|
 | sasvm | 0.897 | 0.4888 | - |  | | ? Double-Cheking Required! |
 | HAL | 0.8908 | 0.9026 | - | |  |
-| Sentiment_Analysis |0.8902| 0.49 | -| | ? Double-Cheking Required!  |
+| Sentiment_Analysis |0.8902| 0.49 | -| | | ? Double-Cheking Required! |
 | danandeh |0.8902| - | -| |  |
 | NGRAMLR(organizer) | 0.8888 | 0.8864 |  - | |  |
 | wildonion | 0.8628 | 0.9058 | - | |  |
