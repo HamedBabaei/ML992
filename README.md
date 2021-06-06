@@ -32,9 +32,9 @@ Content:
 | wildonion | 0.8628 | 0.9058 | - | |  |
 | 54rnd | 0.8558| 0.9018 | - | |  |
 | RandomBaseline(organizer) | 0.5036 | 0.5046 | - | |  |
-|yaaghobi|0.4912 | - | - |  | |  |
-|garshasbi| - | ERROR | - |  | | Model Logs Submitted! |
-|textclassification|ERROR | - | - |  |  | code submitted!|
+| yaaghobi|0.4912 | 0.888 | - |  | |  |
+| garshasbi| - | ERROR | - |  | | Model Logs Submitted! |
+| textclassification|ERROR | - | - |  |  | code submitted!|
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
