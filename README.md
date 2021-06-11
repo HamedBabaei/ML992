@@ -41,9 +41,9 @@ Content:
 * ~~`5 May 2021`: (EXTENDED) Submission-1 phase(early bird), for Test-1.~~
 * ~~`5 May 2021`: Leaderboard update.~~
 * ~~`10 May 2021`: Test-1(validation set) GT release. Test-2(test set) data release for final submission-shared only with submitted approaches~~.
-* **`10 June 2021`: (EXTENDED) Submission-1 phase , for Test-1. STILL OPEN - The LAST CALL**
-* **`10 June 2021`: (EXTENDED) Submission-2 phase(final), for Test-2.**
-* **`10 June 2021`: (EXTENDED) Code submission.**
+* ~~`10 June 2021`: (EXTENDED) Submission-1 phase , for Test-1.~~
+* ~~`10 June 2021`: (EXTENDED) Submission-2 phase(final), for Test-2.~~
+* ~~`10 June 2021`: (EXTENDED) Code submission.~~
 * `10 June 2021`: Test-2 GT release.
 * `15 June 2021`: Final leaderboard update.
 * **`20 June 2021`: Participant paper submission.**
