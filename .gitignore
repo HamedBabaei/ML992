@@ -1,9 +1,9 @@
 # local files and dirs
 local-info/*
 #dataset/test/*-Data.csv
-dataset/test/*-GT.csv
+#dataset/test/*-GT.csv
 submissions/*
-dataset/validation/*-GT.csv
+#dataset/validation/*-GT.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
