@@ -33,8 +33,8 @@ Content:
 | yaaghobi|0.8684 | 0.888 | 0.8782 |  | |  |
 | Sentiment_Analysis |0.8902| 0.49 | 0.6901 | | | |
 | BK | 0.8524 | 0.4938 | 0.6731 |  | |  |
-| RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | |  |
 | garshasbi| 0.5344 | 0.4952 | 0.5148 |  | |  |
+| RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | |  |
 | textclassification|ERROR | - | 0 |  |  | |
 
 ## Timelines
