@@ -35,7 +35,7 @@ Content:
 | BK | 0.8524 | 0.4938 | 0.6731 |  | |  |
 | RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | |  |
 | garshasbi| 0.4952 | 0.5344 | 0.5148 |  | |  |
-| textclassification|ERROR | 0.4952 | 0.5344 | 0.5148 |  | |
+| textclassification | 0.4952 | 0.5344 | 0.5148 | | |  |
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
