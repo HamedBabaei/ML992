@@ -22,23 +22,27 @@ Content:
 ## `Board`
 
 
-| Model(Team Name) | ACC(Test1) | ACC(Test2)| AVG | CScore | RScore | FinalScore |
-|---|---|---|---|---|---|---|
-| danandeh |0.8902 *| 0.9148 | 0.9025| |  |
-| sasvm | 0.897 | 0.8996 | 0.8983 |  | |  |
-| HAL | 0.8908 | 0.9026 | 0.8967 | |  |
-| NGRAMLR(organizer) | 0.8888 | 0.8864 |  0.8876 | |  |
-| wildonion | 0.8628 | 0.9058 | 0.8843 | |  |
-| 54rnd | 0.8558| 0.9018 | 0.8788 | |  |
-| yaaghobi|0.8684 *| 0.888 | 0.8782 |  | |  |
-| Sentiment_Analysis #|0.8902| 0.49 | 0.6901 | | | |
-| BK | 0.8524 *| 0.4938 | 0.6731 |  | |  |
-| RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | |  |
-| garshasbi #| 0.4952 * | 0.5344 | 0.5148 |  | |  |
-| textclassification #| 0.4952 * | 0.5344 *| 0.5148 | | |  |
+| Model(Team Name) | ACC(Test1) | ACC(Test2)| AVG | SScore| CScore | RScore | FinalScore |
+|---|---|---|---|---|---|---|---|
+| danandeh |0.8902 *| 0.9148 | 0.9025| 100 |  ||
+| sasvm | 0.897 | 0.8996 | 0.8983 | 100 | |  ||
+| HAL | 0.8908 | 0.9026 | 0.8967 | 100 |  ||
+| NGRAMLR(organizer) | 0.8888 | 0.8864 |  0.8876 | - |  ||
+| wildonion | 0.8628 | 0.9058 | 0.8843 | 100 |  ||
+| 54rnd | 0.8558| 0.9018 | 0.8788 | 100 |  ||
+| yaaghobi|0.8684 *| 0.888 | 0.8782 | 100 | |  ||
+| Sentiment_Analysis #|0.8902| 0.49 | 0.6901 | 90 | | ||
+| BK | 0.8524 *| 0.4938 | 0.6731 | 90 | |  ||
+| RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | - |  ||
+| garshasbi #| 0.4952 * | 0.5344 | 0.5148 | 80 | |  ||
+| textclassification #| 0.4952 * | 0.5344 *| 0.5148 | 80 | |  ||
 
 * `*` Late Submissions
 * `#` Validation-GT sharing outside of the predefined-scope!
+* `SScore`: Submission Score (from 100) based on averaged results
+* `CScore`: Code quality score (from 100) + unti 100 extra point from me for the quality
+* `RScore`: Report quality score (from 100)
+* `FinalScore`: (SScore + CScore + RScore)/300  - the result will in range of (0, 100), higher than this is extra mark!
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
