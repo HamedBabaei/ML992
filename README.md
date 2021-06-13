@@ -42,7 +42,7 @@ Content:
 * `SScore`: Submission Score (from 100) based on averaged results
 * `CScore`: Code quality score (from 100) + unti 100 extra point from me for the quality
 * `RScore`: Report quality score (from 100)
-* `FinalScore`: (SScore + CScore + RScore)/300  - the result will in range of (0, 100), higher than this is extra mark!
+* `FinalScore`: (SScore + CScore + RScore)/3  - the result will in range of (0, 100), higher than this is extra mark!
 
 ## Timelines
 * ~~`13 March 2021`: Task launch.~~
