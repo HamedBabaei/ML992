@@ -34,8 +34,8 @@ Content:
 | Sentiment_Analysis #|0.8902| 0.49 | 0.6901 | 90 | 90 | 80 | 87 |
 | BK | 0.8524 *| 0.4938 | 0.6731 | 90 | 90 | 60 | 80 |
 | RandomBaseline(organizer) | 0.5036 | 0.5046 | 0.5041 | - | - | - |
-| garshasbi #| 0.4952 * | 0.5344 | 0.5148 | 80 | 100+10 | 80  | 90 |
-| textclassification #| 0.4952 * | 0.5344 *| 0.5148 | 80 | 100+10 | 0 | 64 |
+| garshasbi #| 0.4952 * | 0.5344 | 0.5148 | 80 | 100+10 | 50  | 80 |
+| textclassification #| 0.4952 * | 0.5344 *| 0.5148 | 80 | 100+10 | 50 | 80 |
 
 * `*` Late Submissions
 * `#` Validation-GT sharing outside of the predefined-scope!
