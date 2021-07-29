@@ -54,8 +54,8 @@ Content:
 * ~~`10 June 2021`: (EXTENDED) Code submission.~~
 * ~~`10 June 2021`: Test-2 GT release.~~
 * ~~`15 June 2021`: Final leaderboard update.~~
-* **`20 June 2021`: Participant paper submission.**
-* `30 June 2021`: Task overview, and task reports.
+* ~~**`20 June 2021`: Participant paper submission.**~~
+* ~~`30 June 2021`: Task overview, and task reports.~~
 
 ## Paper Submission (report file)
 
@@ -94,6 +94,9 @@ The following sections required in the report:
 
 ## News
 
+* 31 June 2020:
+    - Task overview relased!
+   
 * 6 jun 2021:
     - paper submission for added
     - phase 1 and phase 2 submission extended for a last time!
